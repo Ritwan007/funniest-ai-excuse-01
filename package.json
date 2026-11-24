@@ -1,0 +1,8 @@
+{
+  "name": "funniest-ai-excuse-01",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The funniest one-line excuse an AI agent could give after failing a task — a make.fun entry.",
+  "license": "MIT"
+}
